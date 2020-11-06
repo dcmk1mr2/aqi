@@ -36,8 +36,8 @@
 #ifndef STASSID
 //#define STASSID "Ace Monster Toys"
 //#define STAPSK  "learn42everyday"
-#define STASSID "TheM&M's-2.4AC"
-#define STAPSK  "Beaueau0"
+#define STASSID "WiFI_SSID"
+#define STAPSK  "Password"
 
 
 #endif
